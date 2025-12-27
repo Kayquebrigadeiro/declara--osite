@@ -336,6 +336,8 @@ body {
     height: 280px;
     object-fit: cover;
     border-radius: 5px;
+    image-orientation: from-image;
+    transform: rotate(0deg);
 }
 
 .polaroid p {
